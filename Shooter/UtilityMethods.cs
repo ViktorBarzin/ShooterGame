@@ -5,7 +5,7 @@
     public static class UtilityMethods
     {
         public const int WindowWidth = 100;
-        public const int WindowHeight = 15;
+        public const int WindowHeight = 35;
         public const int ScreenUpperBorder = 2;
         public const int ScreenLowerBorder = WindowHeight - 2;
         public const int EnemyStartOffset = WindowWidth;

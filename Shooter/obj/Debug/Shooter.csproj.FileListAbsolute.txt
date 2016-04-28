@@ -4,3 +4,9 @@ C:\Users\Viktor\Desktop\GitHub\Telerik-Academy-2015-2016\Shooter\Shooter\bin\Deb
 C:\Users\Viktor\Desktop\GitHub\Telerik-Academy-2015-2016\Shooter\Shooter\obj\Debug\Shooter.csprojResolveAssemblyReference.cache
 C:\Users\Viktor\Desktop\GitHub\Telerik-Academy-2015-2016\Shooter\Shooter\obj\Debug\Shooter.exe
 C:\Users\Viktor\Desktop\GitHub\Telerik-Academy-2015-2016\Shooter\Shooter\obj\Debug\Shooter.pdb
+C:\Users\Viktor\Desktop\GitHub\Shooter\Shooter\bin\Debug\Shooter.exe.config
+C:\Users\Viktor\Desktop\GitHub\Shooter\Shooter\obj\Debug\Shooter.exe
+C:\Users\Viktor\Desktop\GitHub\Shooter\Shooter\obj\Debug\Shooter.pdb
+C:\Users\Viktor\Desktop\GitHub\Shooter\Shooter\bin\Debug\Shooter.exe
+C:\Users\Viktor\Desktop\GitHub\Shooter\Shooter\bin\Debug\Shooter.pdb
+C:\Users\Viktor\Desktop\GitHub\Shooter\Shooter\obj\Debug\Shooter.csprojResolveAssemblyReference.cache
